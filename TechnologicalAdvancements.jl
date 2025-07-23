@@ -1,0 +1,2 @@
+print("Embracing emerging technologies like machine learning & blockchain & cloud computing is no longer optional but a necessity.") 
+print("These technologies can enhance efficiency & improve customer experiences & streamline operations across the industry.")

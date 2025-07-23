@@ -1,0 +1,2 @@
+print("Financial intermediaries should embrace a culture of innovation, explore new business modalities, and consider partnerships with fintech companies to stay ahead of the curve.")
+print("Collaborations can enhance offerings & reduce operational costs & reach new markets.")

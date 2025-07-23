@@ -1,0 +1,2 @@
+print("Operation is within a complex & dynamic regulatory environment.")
+print("Adhering to regulations like GDPR & AML & KYC, along with adapting to evolving regulations related to fintech & cybersecurity, is essential to avoid penalties & maintain trust.")

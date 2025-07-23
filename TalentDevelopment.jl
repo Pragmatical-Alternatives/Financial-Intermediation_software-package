@@ -1,0 +1,2 @@
+print("Bridging the cybersecurity knowledge gap and equipping employees with the necessary digital skills to navigate the evolving technological landscape is vital.")
+print("Investment in training & continuous development can enhance employee performance & foster a culture of cybersecurity awareness.")

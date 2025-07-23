@@ -1,0 +1,2 @@
+print("Leveraging big data analytics to extract valuable insights into market trends, customer behavior, and risk management is critical for informed decision-making.")
+print("This helps optimize operations, personalize services, and identify growth opportunities.") 

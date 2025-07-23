@@ -1,0 +1,1 @@
+print("As the financial industry embraces advanced technologies and handles vast amounts of personal data, maintaining high ethical standards & ensuring data privacy & practicing responsible innovation are crucial to building & maintaining trust with customers & stakeholders.")

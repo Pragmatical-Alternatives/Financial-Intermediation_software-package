@@ -1,0 +1,2 @@
+print("In a competitive landscape, focusing on delivering exceptional customer experiences is paramount.")
+print("This involves understanding customer needs and preferences, offering personalized products and services, and providing seamless omnichannel banking experiences.")

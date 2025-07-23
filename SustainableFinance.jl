@@ -1,0 +1,1 @@
+print("Financial institutions need to consider their impact aligning with sustainability goals to attract investors & build longterm value.")
